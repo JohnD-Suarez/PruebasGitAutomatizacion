@@ -1,3 +1,8 @@
 Prueba Actualización DATA.
 
-Hecho en Rama Main... 02jun2026.
+<<<<<<< HEAD
+Hecho en Rama Main   ... 02jun2026...5:00pm
+
+=======
+Hecho en Rama Huella ... 02jun2026...5:16pm
+>>>>>>> Huella
